@@ -1,0 +1,43 @@
+.navbar {
+  background-color : #39569c;
+  font-family : Arial;
+
+}
+
+.navbar-brand {
+  color : #fff;
+}
+
+.nav-link{
+  color : #fff;
+}
+
+.image {
+  text-align : center;
+  padding-top : 10px;
+  background-image: url("blue-pink-and-white-andromeda-galaxy-way.jpg");
+  color : #fff;
+}
+
+.me{
+  border-radius : 100%;
+  width : 30%
+}
+#map {
+  padding-top : 10%;
+  text-align : center;
+}
+#socialmedia {
+  margin : 10%;
+}
+.button {
+text-align : center;
+padding-top : 5%;
+}
+.social {
+text-align : center;
+padding-bottom: 5%;
+}
+#slide {
+  padding-top:5%;
+}
