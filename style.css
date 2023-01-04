@@ -1,0 +1,38 @@
+body {
+  background-image: url(/img/1153667.jpg);
+  font-family: 'Roboto Condensed';
+}
+
+.chrome {
+  text-align: center;
+  border: solid;
+  border-radius:8px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:20px ;
+  margin-bottom:20px ;
+}
+
+#tab {
+  
+}
+
+#footer {
+  background-color: #eee;
+  border: solid;
+  border-radius:8px;
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:20px ;
+  margin-bottom:20px ;
+}
+
+#mbar {
+  background-color: #A9A9A9;
+  height: 40px;
+
+}
+
+#page {
+  background-color: #eee;
+}
