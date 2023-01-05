@@ -1,0 +1,61 @@
+body {
+  border-style: solid;
+  border-color: blue;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.leflogin {
+  border-style: dotted;
+  border-color: blue;
+  width: 250px;
+  float: : left;
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 2px;
+
+}
+
+.lefbutton {
+  padding-left: 50px;
+  padding-bottom: 5px;
+
+}
+
+.main {
+  border-style: solid;
+  border-color: blue;
+  margin-top: 5px;
+  margin-left: 265px;
+  margin-right: 5px;
+
+}
+
+.footer {
+  margin-left: 500px;
+  line-height: 2px;
+
+}
+
+#button{
+  background-color: #6495ED;
+  border : 1px ;
+  box-shadow: 2px 2px #6495ED;
+}
+
+#topimg {
+  width : 1070px;
+}
+
+#mcont {
+  padding-left: 25px;
+}
+
+#flink {
+  color: #6495ED;
+  word-spacing: 2em;
+}
+
+#found {
+  padding-left: 100px;
+  text-indent: 
+}

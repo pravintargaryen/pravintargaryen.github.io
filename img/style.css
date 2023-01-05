@@ -1,0 +1,39 @@
+body {
+  font-family: arial, sans-serif;
+  align: center;
+}
+
+.navbar {
+  background-color : skyblue;
+  height : 2em;
+  font-family: arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar ul{
+  list-style-type: none;
+  padding-left: 0;
+  padding-top: 4px;
+  vertical-align: middle;
+  border-radius: 25px;
+}
+
+.navbar li{
+  display : inline-block;
+  vertical-align: middle;
+}
+
+.navbar li a {
+  color : grey;
+  text-decoration: none;
+  float : left;
+  padding : 5px;
+  width : 14%;
+  text-align: center;
+}
+.navbar a.active {
+  color : white;
+}
